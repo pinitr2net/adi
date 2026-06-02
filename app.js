@@ -24,10 +24,10 @@ navLinks.querySelectorAll('a').forEach(a => {
 
 // ── Typed text effect ──
 const lines = [
-  'מפתח Full Stack',
-  'מעצב UI/UX',
-  'יוצר חוויות דיגיטליות',
-  'אוהב קוד יפה',
+  'מפתחת Full Stack',
+  'מעצבת UI/UX',
+  'יוצרת חוויות דיגיטליות',
+  'אוהבת קוד יפה',
 ];
 let lineIdx = 0, charIdx = 0, deleting = false;
 const typedEl = document.getElementById('typed-text');
